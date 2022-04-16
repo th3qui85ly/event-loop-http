@@ -1,0 +1,21 @@
+{
+  "name": "event-loop-http",
+  "version": "1.0.0",
+  "description": "Showing the use of event loop and 2 api built using express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api",
+    "http",
+    "event-loop"
+  ],
+  "author": "th3qui85ly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
